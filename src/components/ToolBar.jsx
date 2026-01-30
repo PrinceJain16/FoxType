@@ -1,5 +1,5 @@
 import { useGame } from "../context/GameContext";
-import "./Toolbar.css";
+import "./ToolBar.css";
 
 function Toolbar() {
   const {
