@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Header from './components/header.jsx'
-import ToolBar from './components/toolBar.jsx'
+import Header from './components/Header.jsx'
+import ToolBar from './components/ToolBar.jsx'
 import TypingArea from './components/TypingArea.jsx'
 import LiveStats from './components/LiveStats.jsx'
 
